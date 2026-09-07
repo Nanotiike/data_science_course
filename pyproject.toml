@@ -6,10 +6,7 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "ipykernel>=6.31.0",
-<<<<<<< HEAD
     "nltk>=3.10.3",
-=======
->>>>>>> 1f9495a55eecc08685f2aeb3279a07f151624e17
     "pandas>=2.3.3",
     "scikit-learn>=1.9.0",
 ]
